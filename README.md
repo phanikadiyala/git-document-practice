@@ -6,3 +6,5 @@ Features:
 - Employee profile
 - Benefits information
 - Paycheck history
+- Employee performance
+- Leave management
