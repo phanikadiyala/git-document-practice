@@ -2,3 +2,6 @@
 2. Employee dashboard
 3. Benefits information
 4. Paycheck history
+5. Employee leave management
+6. Leave balance
+7. Leave request approval
